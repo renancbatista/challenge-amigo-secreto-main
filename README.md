@@ -28,7 +28,7 @@ Confetti.js: Biblioteca utilizada para criar as animações de confetes.
 
 1️⃣ Clone o repositório ou faça o download do projeto:
 
- git clone https://github.com/23Edu4rd0/challenge-amigo-secreto.git
+ git clone https://github.com/renancbatista/challenge-amigo-secreto-main.git
 
 2️⃣ Abra o arquivo index.html no seu navegador preferido.
 
